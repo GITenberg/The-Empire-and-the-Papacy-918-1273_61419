@@ -1,0 +1,29 @@
+_repo: The-Empire-and-the-Papacy-918-1273_61419
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tout, T. F. (Thomas Frederick)
+    alias: Tout, Thomas Frederick
+    birthdate: 1855
+    deathdate: 1929
+    gutenberg_agent_id: '6862'
+    url: http://www.gutenberg.org/2009/agents/6862
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Frederick_Tout
+description: ''
+gutenberg_issued: '2020-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61419'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Periods of European history. Period 2
+subjects:
+- !lcsh 'Papacy'
+- !lcc 'D'
+- !lcsh 'Europe -- History -- 476-1492'
+- !lcsh 'Holy Roman Empire -- History -- 843-1273'
+- GITenberg
+title: The Empire and the Papacy, 918-1273
+url: http://www.gutenberg.org/ebooks/61419
